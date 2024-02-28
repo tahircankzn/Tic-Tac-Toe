@@ -12,4 +12,6 @@
 - Renkli Açılış ekranı
 - Oyun sonunda oyuna devam etme veya çıkış sorgusu
 
-  
+![START](start.PNG)
+![GAME](exp.PNG)
+
